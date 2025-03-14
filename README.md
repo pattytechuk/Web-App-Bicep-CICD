@@ -1,6 +1,8 @@
 ## Compose sample application
 ### React application with a NodeJS backend and a MongoDB database
 
+This project is based on the [react-express-mongodb example](https://github.com/docker/awesome-compose/tree/master/react-express-mongodb) from Docker's awesome-compose repository.
+
 Project structure:
 ```
 .
